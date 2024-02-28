@@ -43,6 +43,7 @@ Langkah-langkah berikut dilakukan untuk menyiapkan data sebelum dilatih kedalam 
  - Tokenisasi
  - Remove Stopwords
  - Melakukan Stemming
+ - Tf-Idf (MLP)
  - Sequences dan Padding (LSTM)
 
 ## Modeling
