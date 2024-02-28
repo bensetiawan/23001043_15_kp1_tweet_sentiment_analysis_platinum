@@ -13,16 +13,16 @@ Tujuan dari analisis sentimen tweet adalah untuk mendapatkan wawasan tentang per
 - Memantau efektivitas kampanye pemasaran
 - Mengidentifikasi krisis dan isu yang berpotensi
 
-### Problem Statements
+## Problem Statements
 
 Analisis sentimen tweet secara manual adalah proses yang memakan waktu dan sulit. Machine Learning dapat membantu mengotomatisasi proses ini dan meningkatkan skalabilitas.
 
-### Goals
+## Goals
 
-Tujuan dari proyek ini adalah untuk membangun model Machine Learning yang dapat secara otomatis mengklasifikasikan sentimen tweet (positif, negatif, atau netral).
+Tujuan dari proyek ini adalah untuk membangun model Machine Learning yang dapat secara otomatis mengklasifikasikan sentimen text atau tweet (positif, negatif, atau netral).
 
-    ### Solution statements
-    - Membangun 2 model machine learning yaitu LSTM, dan MLP
+**Solution statements**
+Membangun 2 model machine learning yaitu LSTM, dan MLP :
     - **LSTM** adalah jenis jaringan saraf tiruan  yang dirancang untuk mempelajari ketergantungan jangka panjang dalam data, sehingga sangat cocok untuk tugas-tugas seperti: Pengenalan suara, penerjemahaan bahasa, dan analisis sentiment.
     - **MLP** adalah jenis jaringan saraf tiruan yang terdiri dari beberapa lapisan neuron yang saling terhubung satu sama lain.MLP digunakan untuk mempelajari pola-pola yang kompleks dan non-linear pada data input seperti, pengenalan wajah, prediksi harga saham, dan pengenalan pola pada teks.
 
