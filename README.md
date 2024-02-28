@@ -1,4 +1,4 @@
-#  Project Machine Learning - Tweet Sentiment Analysis
+#  Project Data Science - Tweet Sentiment Analysis
 
 ![_3d8508af-d3f5-44e2-88bd-d37d5d450ecd](https://github.com/bensetiawan/2300968_Sentiment_Analysis_Platinum/assets/93572380/52981cd0-9c00-472e-8d1d-0e625a026910)
 
