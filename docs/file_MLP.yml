@@ -1,0 +1,19 @@
+tags:
+  - name: Tweet Sentiment Analysis Using MLP
+get:
+  description: File yang di proses
+consumes:
+  - multipart/form-data
+parameters:
+  - name: file
+    in: formData
+    description: File to upload
+    required: true
+    type: file
+responses:
+    '200':
+      description: Successful response
+    '400':
+      description: Bad Request
+    '500':
+      description: Internal Server Error
