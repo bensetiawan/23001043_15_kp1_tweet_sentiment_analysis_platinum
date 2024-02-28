@@ -35,7 +35,7 @@ app.json_encoder = LazyJSONEncoder
 #swagger template
 swagger_template = dict(
 info = {
-    'title': 'Project : Text and Tweets Sentiment Analysis',
+    'title': 'Data Science Project : Text and Tweets Sentiment Analysis',
     'version': '1.0.0',
     'description': 'API Documentation for Text and Tweets Sentiment Analysis'
     }
